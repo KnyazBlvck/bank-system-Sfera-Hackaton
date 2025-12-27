@@ -45,3 +45,7 @@
     border-radius: 8px;
 }
 
+.clock i{
+    margin-right: 5px;
+    font-size: 19px;
+}
